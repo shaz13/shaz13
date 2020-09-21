@@ -1,6 +1,6 @@
-### Hi there, I am Shahebaz 👦
+### Hi there, I am Shahebaz
 
-I work at [Societe-generale](https://github.com/societe-generale) as Associate Data Scientist 👨‍💻
+I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist**
 
 Interested in challenging data problems and creating impact using #AI and #Data for good
 
