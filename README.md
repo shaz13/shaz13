@@ -1,5 +1,7 @@
 ### Hi there, I am Shahebaz 👋
 
+@shaz13
+
 I work at @societe-generale as Associate Data Scientist 👨‍💻
 
 - 🔭 I’m currently working on verifications, trust, safety and compliance use cases for Europe Union and Africa 🌍 
