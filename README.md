@@ -1,4 +1,4 @@
-### Hi there, I am Shahebaz
+### Hi there, I am Shahebaz 👋
 
 I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist**
 
@@ -6,7 +6,7 @@ Interested in challenging data problems and creating impact using #AI and #Data 
 
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance use cases for Europe Union and Africa 🌍 
-- 🌱 I’m currently learning French. Salut l'am 👋
+- 🌱 I’m currently learning French. Salut l'am!
 - 👯 I’m looking to collaborate on fake news analysis, impact of climate change and global health care capacities 
 - 💬 Ask me about data science, open-source, android flashing and productivity hacks!
 - 😄 Pronouns: He/Him
