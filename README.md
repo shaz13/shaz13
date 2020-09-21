@@ -18,4 +18,14 @@ Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 
 
+### My Trending articles:
+
+1. From a novice to one of the youngest Kaggle Competition Master and landing in a Fortune 500! [link](https://medium.com/analytics-vidhya/from-a-novice-to-the-youngest-kaggle-competition-master-and-landing-in-a-fortune-500-cc8acf49de)
+2. Introduction to Image Caption Generation using the Avenger’s Infinity War Characters [link](https://medium.com/analytics-vidhya/introduction-to-image-caption-generation-using-the-avengers-infinity-war-characters-6f14df09dbe5)
+3. Rare Feature Engineering Techniques for Machine Learning Competitions [link](https://medium.com/ml-byte/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f)
+
+
+
+
+
 📫 How to reach me: I am active on linkedin at www.linkedin.com/in/shaz13
