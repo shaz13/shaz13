@@ -25,7 +25,5 @@ Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
 3. [Rare Feature Engineering Techniques for Machine Learning Competitions](https://medium.com/ml-byte/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f)
 
 
-
-
 ### Reaching me out!
-Let’s get connected over [LinkedIn](www.linkedin.com/in/shaz13) 📘 and [Twitter](www.twitter.com/byteshaz) ❤️
+Reach me out over [LinkedIn](www.linkedin.com/in/shaz13) 📘 and [Twitter](www.twitter.com/byteshaz) ❤️
