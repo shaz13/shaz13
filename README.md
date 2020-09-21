@@ -27,5 +27,5 @@ Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
 
 
 
-
-📫 How to reach me: I am active on linkedin at www.linkedin.com/in/shaz13
+### Reaching me out!
+Let’s get connected over [LinkedIn](www.linkedin.com/in/shaz13) 📘 and [Twitter](www.twitter.com/byteshaz) ❤️
