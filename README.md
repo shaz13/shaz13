@@ -2,7 +2,7 @@
 
 I work at [Societe-generale](https://github.com/societe-generale) as Associate Data Scientist 👨‍💻
 
-- 🔭 I’m currently working on verifications, trust, safety and compliance use cases for Europe Union and Africa 🌍 
+- 🔭 I’m currently working on KYC, trust, safety and compliance use cases for Europe Union and Africa 🌍 
 - 🌱 I’m currently learning french 
 - 👯 I’m looking to collaborate on fake news analysis, impact of climate change and global health care capacities 
 - 💬 Ask me about data science, open-source, android flashing and productivity hacks!
