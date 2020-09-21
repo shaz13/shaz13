@@ -7,7 +7,9 @@ I work at [Societe-generale](https://github.com/societe-generale) as Associate D
 - 👯 I’m looking to collaborate on fake news analysis, impact of climate change and global health care capacities 
 - 💬 Ask me about data science, open-source, android flashing and productivity hacks!
 - 😄 Pronouns: He/Him
-- ⚡ A quote I love : A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects — Robert Heinlein, Time Enough for Love
+- ⚡ A quote I believe in : 
+
+> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects — Robert Heinlein, Time Enough for Love
 
 ### Skills
 Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
