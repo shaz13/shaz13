@@ -7,7 +7,7 @@ I work at [Societe-generale](https://github.com/societe-generale) as Associate D
 - 👯 I’m looking to collaborate on fake news analysis, impact of climate change and global health care capacities 
 - 💬 Ask me about data science, open-source, android flashing and productivity hacks!
 - 😄 Pronouns: He/Him
-- ⚡ A quote I believe in : And, in pursuit of completing it over years. One step at a time 🌋
+- ⚡ A quote I believe in : And, in pursuit of completing it over years. Bold ones are done. Rest in progress, 1% at a time 🌋
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, **design a building**, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, **take orders**, give orders, cooperate, act alone, **solve equations, analyse a new problem**, pitch manure, **program a computer**, cook a tasty meal, fight efficiently, die gallantly. 
 > Specialization is for insects  <br>  — Robert Heinlein, Time Enough for Love
