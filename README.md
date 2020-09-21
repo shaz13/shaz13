@@ -18,7 +18,7 @@ Interested in challenging data problems and creating impact using #AI and #Data 
 <sub> **Bold** ones are done. Rest in progress, 1% at a time 🌋 </sub>
 
 ### Skills
-Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
+Python 🐍 | JavaScript 🕸 | Data Science and Machine learning 💹 | Presentations 📺 | Speaker 🕺
 
 ### Achievements
 - 🏅 Youngest Kaggle Competition Master - [www.kaggle.com/shaz13](https://kaggle.com/shaz13)
