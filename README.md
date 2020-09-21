@@ -34,4 +34,4 @@ Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
 
 
 ### Reaching me out!
-Reach me out over [LinkedIn](www.linkedin.com/in/shaz13) 📘 and [Twitter](www.twitter.com/byteshaz) ❤️
+Reach me out over [LinkedIn](https://linkedin.com/in/shaz13) 📘 and [Twitter](https://twitter.com/byteshaz) ❤️
