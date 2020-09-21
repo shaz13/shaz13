@@ -24,7 +24,7 @@ Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
 ### My Trending articles:
 
 1. [From a novice to one of the youngest Kaggle Competition Master and landing in a Fortune 500!](https://medium.com/analytics-vidhya/from-a-novice-to-the-youngest-kaggle-competition-master-and-landing-in-a-fortune-500-cc8acf49de)
-2. I[ntroduction to Image Caption Generation using the Avenger’s Infinity War Characters](https://medium.com/analytics-vidhya/introduction-to-image-caption-generation-using-the-avengers-infinity-war-characters-6f14df09dbe5)
+2. [Introduction to Image Caption Generation using the Avenger’s Infinity War Characters](https://medium.com/analytics-vidhya/introduction-to-image-caption-generation-using-the-avengers-infinity-war-characters-6f14df09dbe5)
 3. [Rare Feature Engineering Techniques for Machine Learning Competitions](https://medium.com/ml-byte/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f)
 
 
