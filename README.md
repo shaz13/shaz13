@@ -16,7 +16,7 @@ I work at [Societe-generale](https://github.com/societe-generale) as Associate D
 Python 🐍 | JavaScript 🕸 | Tableau 💹 | Presentations 📺 | Speaker 🕺
 
 ### Achievements
-- 🏅 Youngest Kaggle Competition Master - [www.kaggle.com/shaz13](www.kaggle.com/shaz13)
+- 🏅 Youngest Kaggle Competition Master - [www.kaggle.com/shaz13](https://kaggle.com/shaz13)
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 
