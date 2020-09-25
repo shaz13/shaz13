@@ -21,7 +21,7 @@ Interested in challenging data problems and creating impact using #AI and #Data 
 Python 🐍 | Web Dev 🕸 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 
 ### Achievements
-- 🏅 Youngest Kaggle Competition Master - [www.kaggle.com/shaz13](https://kaggle.com/shaz13)
+- 🏅 [Youngest Kaggle Competition Master](https://kaggle.com/shaz13)
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 
