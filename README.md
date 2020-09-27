@@ -1,6 +1,6 @@
 ### Hi there, I am Shahebaz 👋
 
-I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist** and Product enthusiast!
+I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist and Product enthusiast!**
 
 Interested in building impactful innovative products with data, sciences and passion! 🐣
 
