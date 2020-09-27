@@ -6,9 +6,8 @@ Interested in building impactful innovative products with data, sciences and pas
 
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
-- 🌱 I’m currently learning French. Salut l'am!
-- 👯 I’m looking to collaborate on fake news analysis, impact of climate change and global health care capacities 
-- 💬 Ask me about data science, open-source, android flashing and productivity hacks!
+- 👯 I’m looking to collaborate on impact of climate change and transformative products. 
+- 💬 Ask me about innovation, open-source, android flashing and flying cars!
 - 😄 Pronouns: He/Him
 - ⚡ A quote I believe in : 
 
