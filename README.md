@@ -1,8 +1,8 @@
 ### Hi there, I am Shahebaz 👋
 
-I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist**
+I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist** and Product enthusiast!
 
-Interested in challenging data problems and creating impact using #AI and #Data for good
+Interested in building impactful innovative products with data, sciences and passion! 🐣
 
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
