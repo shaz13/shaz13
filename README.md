@@ -6,7 +6,7 @@ I work at [Societe-generale](https://github.com/societe-generale) as **Associate
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
 - 👯 I’m looking to collaborate on impact of climate change and transformative products. 
-- 💬 Ask me about innovation, open-source, android flashing and flying cars!
+- 💬 Ask me about innovation, open-source, dev community and flying cars!
 - 😄 Pronouns: He/Him
 - ⚡ A quote I believe in : 
 
