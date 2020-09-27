@@ -1,6 +1,6 @@
 ### Hi there, I am Shahebaz 👋
 
-I am a **Product enthusiast!**. Interested in building impactful innovative products with data, sciences and passion! 🐣
+I am a **Product enthusiast**. Interested in building impactful innovative products with data, sciences and passion! 🐣
 
 I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist**, building AI products to do the magic!   
 
