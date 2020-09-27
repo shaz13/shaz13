@@ -2,7 +2,7 @@
 
 I am a **Product enthusiast!**. Interested in building impactful innovative products with data, sciences and passion! 🐣
 
-I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist** making AI do the magic  
+I work at [Societe-generale](https://github.com/societe-generale) as **Associate Data Scientist** build AI to do the magic!   
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
 - 👯 I’m looking to collaborate on impact of climate change and transformative products. 
