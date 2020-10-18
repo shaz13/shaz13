@@ -17,7 +17,7 @@ I am a **Product enthusiast**. Interested in building impactful innovative produ
 Python 🐍 | Web Dev 🕸 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 
 ### Achievements
-- 🏅 [Youngest Kaggle Competition Master](https://kaggle.com/shaz13)
+- 🏅 [Youngest Indian Kaggle Competition Master 2019](https://kaggle.com/shaz13)
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
 
