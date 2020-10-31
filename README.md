@@ -1,6 +1,6 @@
 ### Hi there, I am Shahebaz 👋
 
-I am a Data Scientist interested in building impactful innovative products with data, sciences and passion! 🐣
+I am a data scientist interested in building impactful innovative products with data, sciences and passion! 🐣
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
 - 👯 I’m looking to collaborate on impact of climate change and transformative products. 
