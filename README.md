@@ -1,5 +1,7 @@
 ### Hi there, I am Shahebaz 👋
 
+tmp link - https://join.skype.com/xVFSztzTKnkU
+
 I am a data scientist interested in building impactful innovative products with data, sciences and passion! 🐣
 
 - 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
