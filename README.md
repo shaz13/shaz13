@@ -1,10 +1,7 @@
 ### Hi there, I am Shahebaz 👋
 
-I am a data scientist interested in building impactful innovative products with data, sciences and passion! 🐣
+Interested in building amazing product 🚀 + AI/ML 🤖
 
-- 🔭 I’m currently working on KYC, trust, safety, fraud and compliance related use cases for Europe Union and Africa 🌍 
-- 👯 I’m looking to collaborate on impact of climate change and transformative products. 
-- 💬 Ask me about innovation, open-source, dev community and flying cars!
 - 😄 Pronouns: He/Him
 - ⚡ A quote I believe in : 
 
@@ -14,20 +11,12 @@ I am a data scientist interested in building impactful innovative products with 
 <sub> **Bold** ones are done. Rest in progress, 1% at a time 🌋 </sub>
 
 ### Skills
-Python 🐍 | Web Dev 🕸 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
+Product 🚀 |Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 
 ### Achievements
 - 🏅 [Youngest Indian Kaggle Competition Master 2019](https://kaggle.com/shaz13)
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
-
-
-### My Trending articles:
-
-1. [From a novice to one of the youngest Kaggle Competition Master and landing in a Fortune 500!](https://medium.com/analytics-vidhya/from-a-novice-to-the-youngest-kaggle-competition-master-and-landing-in-a-fortune-500-cc8acf49de)
-2. [Introduction to Image Caption Generation using the Avenger’s Infinity War Characters](https://medium.com/analytics-vidhya/introduction-to-image-caption-generation-using-the-avengers-infinity-war-characters-6f14df09dbe5)
-3. [Rare Feature Engineering Techniques for Machine Learning Competitions](https://medium.com/ml-byte/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f)
-
 
 ### Reaching me out!
 Reach me out over [LinkedIn](https://linkedin.com/in/shaz13) 📘 and [Twitter](https://twitter.com/byteshaz) ❤️
