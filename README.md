@@ -18,5 +18,3 @@ Product 🚀 |Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
 
-### Reaching me out!
-Reach me out over [LinkedIn](https://linkedin.com/in/shaz13) 📘 and [Twitter](https://twitter.com/byteshaz) ❤️
