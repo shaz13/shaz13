@@ -14,7 +14,7 @@ Interested in building amazing product 🚀 + AI/ML 🤖
 Product 🚀 |Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 
 ### Achievements
-- 🏅 [Kaggle Competition + Discussion Master 2019](https://kaggle.com/shaz13)
+- 🏅 [Kaggle Competition + Discussion Master](https://kaggle.com/shaz13)
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
 
