@@ -15,7 +15,7 @@ Product 🚀 |Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 
 ### Achievements
 - 🏅 [Kaggle Grandmaster](https://kaggle.com/shaz13) 2021
-- 🏅 Kaggle Competition + Discussion Master 2019
+- 🎖 Kaggle Competition + Discussion Master 2019
 - 🏆 Winner - Most Innovative Solution for BrainWaves 2019, Bangalore
 - 🏆 1st Runner up - Techgig Code Gladiators Machine learning Champion - 2018
 
