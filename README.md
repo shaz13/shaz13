@@ -11,7 +11,7 @@ Interested in building amazing product 🚀 + AI/ML 🤖
 <sub> **Bold** ones are done. Rest in progress, 1% at a time 🌋 </sub>
 
 ### Skills
-Product 🚀 |Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
+Product 🚀 | Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 
 ### Achievements
 - 🏅 [Kaggle Grandmaster 2021](https://kaggle.com/shaz13) 
