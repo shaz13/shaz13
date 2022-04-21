@@ -16,18 +16,18 @@ Product 🚀 | Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
 ### Opensource 💌
 - Maintainer, and developed [Katana](https://github.com/shaz13/katana) - Production ready API template used by TCS, Intuit, Socgen employees 
 - Contributor at [scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Ashaz13+is%3Amerged) on index corrections, cross-validated predictions, deprecation of English stop words in feature extraction functions and updating cross validation defaults in KFold for version 0.22
-- Contributed at Oppia.org on various issues including front-end, documentation and Map reduce job
+- Contributed at [Oppia.org](https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3Ashaz13+is%3Amerged) on various issues including front-end, documentation and Map reduce PRs
 - Member of FOSSASIA organization and contributor for loklak and susper search engines
 
 ### Competitive Data Science 👨🏻‍💻
-- Kaggle Grandmaster (12th rank discussion) and Competitions Master (7th rank least), Worldwide
-- Officailly certified as TensorFlow Developer and listed on network at tensorflow.org/certificate-network
+- Kaggle Grandmaster ([12th rank discussion](https://www.kaggle.com/shaz13)) and Competitions Master, Worldwide
+- Officailly certified as [TensorFlow Developer](https://www.credential.net/ca13690c-86b2-4f09-ad62-ea86ae7e51be) and listed on network at tensorflow.org/certificate-network
 - Winner of “Most Innovative Solution” at 5th edition of Société Générale’s ML hackathon, Bangalore - 2019
 - Gold medal and 7th place finish out of 2023 teams at Petfinder.my Competition, Kaggle - 2019
 - 2nd AIR with of ₹1,00,000 prize at TechGig in Machine Learning Hackathon by Credit Suisse, 2018
 - Lead, organised events, and contributor as social committee lead of developers at Oppia.org, GSoC - 2018
 - Rank 1 and ₹50,000 prize winner at national level data science hackathon by JNTUH and Colaberry, 2018
-- Rank 1 out of 200 applicants at Analytics Vidhya Hiring Hackathon, 2018
+- Rank 1 out of 200 applicants at [Analytics Vidhya Hiring Hackathon, 2018](https://datahack.analyticsvidhya.com/contest/analytics-vidhya-hiring-hackathon/pvt_lb)
 - Rank 9 out of 261 participants at “Data Tales – Beyond Infinity” competition on Analytics Vidhya, 2017
 - Top 1% of 7126 participants at Predict Happiness competition at HackerEarth, 2017
 - Top 8% of 3882 teams and bronze medallist at “Zillow’s Home Value Prediction” at Kaggle, 2017
