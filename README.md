@@ -11,7 +11,7 @@ Interested in building amazing product 🚀 + AI/ML 🤖
 <sub> **Bold** ones are done. Rest in progress, 1% at a time 🌋 </sub>
 
 ### Skills
-Product 🚀 | Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
+MLOps 🚀 | Python 🐍 | Machine Learning & Model Training 🤖 | Evangelism 📺 | Orator 🕺
 
 ### Opensource 💌
 - Maintainer, and developed [Katana](https://github.com/shaz13/katana) - Production ready API template used by TCS, Intuit, Socgen employees 
